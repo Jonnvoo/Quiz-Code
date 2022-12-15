@@ -26,3 +26,6 @@ THEN I can save my initials and score
 ```
 ## ScreenShot
 ![screenshot](./assets/Spongebob.PNG)
+
+## Deployed link
+https://jonnvoo.github.io/Quiz-Code/ 
