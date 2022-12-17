@@ -37,7 +37,7 @@ function gameStart() {
 function gameOver() {
     const scoretimer = gameScore - timerSeconds
     localStorage.setItem('score', JSON.stringify(scoretimer))
-    location.href = "Highscores.html"
+    location.href = "./highscores.html"
 }
 //add an event lister where clicking start will start the game.
 startBtn.addEventListener('click', gameStart);
